@@ -1,38 +1,24 @@
-<<<<<<< HEAD
-#simple calculator program
+# Simple calculator program
 
+# Add function
 def add(x, y):
     return x + y
 
+# Subtract function
 def subtract(x, y):
     return x - y
 
+# Multiply function
 def multiply(x, y):
     return x * y
 
-=======
-#simple calculator app
-
-#add fucntion
-def add(x, y):
-    return x + y
-
-#subtract function
-def subtract(x, y):
-    return x - y
-
-#multiply function
-def multiply(x, y):
-    return x * y
-
-#divide function
->>>>>>> master
+# Divide function
 def divide(x, y):
     if y == 0:
         return "Error! Division by zero."
     return x / y
 
-<<<<<<< HEAD
+
 while True:
     print("------ Simple Calculator ------")
     print("Select operation:")
@@ -66,6 +52,4 @@ while True:
     again = input("Do you want to calculate again? (yes/no): ")
     if again.lower() != 'yes':
         break
-=======
-
->>>>>>> master
+print("Thank you for using the calculator. Goodbye!")
