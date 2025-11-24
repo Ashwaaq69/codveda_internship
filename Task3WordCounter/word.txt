@@ -1,0 +1,14 @@
+This is a sample text file for testing the WordCounter script.
+It contains several words, punctuation, and newlines.
+Use this file to confirm the word count works correctly.
+This is a sample text file for testing the WordCounter script.
+It contains several words, punctuation, and newlines.
+Use this file to confirm the word count works correctly.
+
+This is a sample text file for testing the WordCounter script.
+It contains several words, punctuation, and newlines.
+Use this file to confirm the word count works correctly.
+
+This is a sample text file for testing the WordCounter script.
+It contains several words, punctuation, and newlines.
+Use this file to confirm the word count works correctly.
